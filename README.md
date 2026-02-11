@@ -156,7 +156,34 @@ else: risk_level = "Low"
 
 ## 📊 Screenshots
 
-*(Add screenshots of your application here)*
+Welcome Page-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 225406" src="https://github.com/user-attachments/assets/c97ebf8f-011b-45af-8f38-6979fa5270ad" />
+
+Registration Page-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 225636" src="https://github.com/user-attachments/assets/1f56bbc3-55cc-45b7-9812-a06978c2549d" />
+
+Login Page-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 225728" src="https://github.com/user-attachments/assets/88f217e8-cade-4e08-bf33-4de035ba217b" />
+
+Dashboard -
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231252" src="https://github.com/user-attachments/assets/ae9896ae-8fe8-43eb-9ffb-c9f2f2719c78" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231318" src="https://github.com/user-attachments/assets/9be0d7b6-f190-417e-b94f-cbdda8f8b06d" />
+
+Individual Task-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231405" src="https://github.com/user-attachments/assets/2bbf55b5-4b54-4973-bbf4-68faf8cffd3f" />
+
+Group Tasks-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231538" src="https://github.com/user-attachments/assets/027132fe-45b1-4721-8d39-bed4897fb03b" />
+
+Calendar -
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231754" src="https://github.com/user-attachments/assets/ce162025-cc13-4e7d-b463-9ef4f06e999f" />
+
+Reports & Analysis-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231840" src="https://github.com/user-attachments/assets/c9dae21a-c204-44e3-ba40-698630767b00" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231857" src="https://github.com/user-attachments/assets/5a2a28fa-6395-4bc6-bdf9-ce64e3ada75d" />
+
+Burnout Analysis-
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 231924" src="https://github.com/user-attachments/assets/21e2431c-dc0a-40e1-b79b-4ca8ec9a5033" />
 
 - Dashboard with burnout analysis
 - Task management interface
