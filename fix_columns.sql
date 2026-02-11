@@ -1,0 +1,7 @@
+USE academic_burnout_db;
+
+-- Check and add missing columns
+ALTER TABLE tasks ADD COLUMN IF NOT EXISTS task_status VARCHAR(20) DEFAULT 'Pending';
+ALTER TABLE tasks ADD COLUMN IF NOT EXISTS reminder_sent BOOLEAN DEFAULT FALSE;
+ALTER TABLE group_tasks ADD COLUMN IF NOT EXISTS reminder_sent BOOLEAN DEFAULT FALSE;
+ALTER TABLE users ADD COLUMN IF NOT EXISTS reset_token VARCHAR(255) NULL;
