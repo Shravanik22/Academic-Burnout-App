@@ -1,8 +1,13 @@
 # Academic-Burnout-App
+```
 🎓 Academic Burnout & Deadline Collision Detector - A smart web app helping students manage workload, detect deadline conflicts, and prevent burnout through data-driven insights and collaborative task management.
+```
+
+---
 
 ## **Detailed README.md Content:**
 
+```markdown
 # 📚 Academic Burnout & Deadline Collision Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
@@ -58,6 +63,7 @@ A comprehensive web-based application designed to help students manage academic 
 
 ## 📁 Project Structure
 
+```
 academic_burnout_app/
 ├── app.py                  # Main application with all pages
 ├── auth.py                 # Authentication & password management
@@ -69,6 +75,7 @@ academic_burnout_app/
 ├── utils.py                # UI helpers & export functions
 ├── schema.sql              # Database schema
 └── requirements.txt        # Python dependencies
+```
 
 ## 🚀 Installation & Setup
 
