@@ -190,9 +190,9 @@ This project helped us learn:
 
 ## 👥 Team Members
 
-- **Mahek Kala** - [LinkedIn](https://linkedin.com/in/mahek-kala)
-- **Shravani Kumbhar** - [LinkedIn](https://linkedin.com/in/shravani-kumbhar)
-- **Monishka Mahulkar** - [LinkedIn](https://linkedin.com/in/monishka-mahulkar)
+- **Mahek Kala** - [LinkedIn](https://www.linkedin.com/in/mahek-kala-a14b9332b)
+- **Shravani Kumbhar** - [LinkedIn](https://www.linkedin.com/in/shravani-kumbhar-373b9532b)
+- **Monishka Mahulkar** - [LinkedIn](https://www.linkedin.com/in/monishka-mahulkar-484962377)
 
 ## 🏫 Institution
 
@@ -225,8 +225,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please reach out:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
+- Email: shravanikumbhar318@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/shravani-kumbhar-373b9532b)
 
 ## ⭐ Show your support
 
@@ -235,5 +235,4 @@ Give a ⭐️ if this project helped you!
 ---
 
 **Made with ❤️ by Team Academic Burnout Detector**
-```
 
