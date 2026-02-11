@@ -55,7 +55,7 @@ A comprehensive web-based application designed to help students manage academic 
 - `pillow` - Image handling
 
 ## 📁 Project Structure
-
+```
 academic_burnout_app/
 ├── app.py                  # Main application with all pages
 ├── auth.py                 # Authentication & password management
@@ -67,6 +67,7 @@ academic_burnout_app/
 ├── utils.py                # UI helpers & export functions
 ├── schema.sql              # Database schema
 └── requirements.txt        # Python dependencies
+```
 
 ## 🚀 Installation & Setup
 
