@@ -1,11 +1,5 @@
 # Academic-Burnout-App
-```
 🎓 Academic Burnout & Deadline Collision Detector - A smart web app helping students manage workload, detect deadline conflicts, and prevent burnout through data-driven insights and collaborative task management.
-```
-
----
-
-## **Detailed README.md Content:**
 
 ```markdown
 # 📚 Academic Burnout & Deadline Collision Detection System
