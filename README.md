@@ -1,7 +1,6 @@
 # Academic-Burnout-App
 🎓 Academic Burnout & Deadline Collision Detector - A smart web app helping students manage workload, detect deadline conflicts, and prevent burnout through data-driven insights and collaborative task management.
 
-```markdown
 # 📚 Academic Burnout & Deadline Collision Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
@@ -57,7 +56,6 @@ A comprehensive web-based application designed to help students manage academic 
 
 ## 📁 Project Structure
 
-```
 academic_burnout_app/
 ├── app.py                  # Main application with all pages
 ├── auth.py                 # Authentication & password management
@@ -69,7 +67,6 @@ academic_burnout_app/
 ├── utils.py                # UI helpers & export functions
 ├── schema.sql              # Database schema
 └── requirements.txt        # Python dependencies
-```
 
 ## 🚀 Installation & Setup
 
@@ -201,7 +198,7 @@ This project helped us learn:
 **Shah And Anchor Kutchhi Engineering College**
 - Class: SY IT (2)
 - Subject: Python Programming
-- Academic Year: 2024-2025
+- Academic Year: 2025-2026
 
 ## 🤝 Contributing
 
@@ -239,38 +236,3 @@ Give a ⭐️ if this project helped you!
 **Made with ❤️ by Team Academic Burnout Detector**
 ```
 
----
-
-## **Alternative Short Descriptions:**
-
-**Option 1 (Technical):**
-```
-Smart academic workload manager with deadline collision detection, burnout analysis, and collaborative task management. Built with Python, Streamlit, and MySQL.
-```
-
-**Option 2 (Problem-focused):**
-```
-Preventing student burnout through intelligent deadline tracking, workload analysis, and data-driven insights. Web app for academic task management.
-```
-
-**Option 3 (Feature-focused):**
-```
-Full-stack web app for students: track assignments, detect deadline conflicts, analyze burnout risk, collaborate on group projects, and export detailed reports.
-```
-
----
-
-## **GitHub Topics to Add:**
-
-Add these topics to your repository for better discoverability:
-
-```
-python streamlit mysql academic-project student-project 
-task-management burnout-detection data-visualization 
-education-technology time-management web-application 
-database-project python-project college-project
-```
-
----
-
-Choose the README format that best suits your style, and customize the links, screenshots, and contact information with your actual details! 🚀
