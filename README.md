@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please reach out:
 - Email: shravanikumbhar318@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/shravani-kumbhar-373b9532b)
+- LinkedIn: [(https://www.linkedin.com/in/shravani-kumbhar-373b9532b)]
 
 ## ⭐ Show your support
 
